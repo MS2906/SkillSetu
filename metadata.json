@@ -1,0 +1,6 @@
+{
+  "name": "SkillSetu",
+  "description": "Learn it. Prove it. Get hired. Guided 2-week micro-skill pathways, practical rubric grading, shareable Skill Passports, and matched entry-level opportunities for learners across India.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "opp-01",
+    "title": "Junior Solar Rooftop Helper",
+    "organisation": "SuryaShakti Clean Energy Pvt Ltd",
+    "city": "Bengaluru",
+    "sector": "Renewable Energy",
+    "pay": "₹16,500 – ₹19,000 / month",
+    "required_skills": [
+      "Solar Panel Cleaning & Maintenance",
+      "DC Wiring & Multimeter Safety",
+      "Site Safety & Harness Check",
+      "Customer Handover Basics"
+    ]
+  },
+  {
+    "id": "opp-02",
+    "title": "Retail Store & POS Associate",
+    "organisation": "Namma Mart Superstores",
+    "city": "Mysuru",
+    "sector": "Retail",
+    "pay": "₹14,000 – ₹17,500 / month",
+    "required_skills": [
+      "UPI & POS Billing",
+      "Customer Greeting & Upselling",
+      "Shelf Stock & Expiry Check"
+    ]
+  },
+  {
+    "id": "opp-03",
+    "title": "Junior Tally & GST Billing Assistant",
+    "organisation": "Kaveri Traders & Distributors",
+    "city": "Hubballi",
+    "sector": "Accounting & Office",
+    "pay": "₹15,000 – ₹20,000 / month",
+    "required_skills": [
+      "GST Invoice Preparation",
+      "Tally Ledger Entry",
+      "Bank Reconciliation Basics",
+      "Spreadsheet Reporting"
+    ]
+  },
+  {
+    "id": "opp-04",
+    "title": "EV Two-Wheeler Service Trainee",
+    "organisation": "VayuVolt Mobility Hub",
+    "city": "Pune",
+    "sector": "Automotive & EV",
+    "pay": "₹16,000 – ₹21,000 / month",
+    "required_skills": [
+      "Battery Pack Inspection",
+      "High-Voltage Safety",
+      "Brake & Tyre Diagnostics",
+      "Service Job Card Logging"
+    ]
+  },
+  {
+    "id": "opp-05",
+    "title": "Customer Care & Helpline Executive",
+    "organisation": "Sahayak FinServe Support",
+    "city": "Hyderabad",
+    "sector": "Customer Support",
+    "pay": "₹15,500 – ₹18,500 / month",
+    "required_skills": [
+      "Polite Phone Etiquette",
+      "Active Listening & Issue Logging",
+      "Spoken English Clarity",
+      "Complaint Resolution"
+    ]
+  },
+  {
+    "id": "opp-06",
+    "title": "Warehouse Inventory & Dispatch Helper",
+    "organisation": "GraminKart Logistics",
+    "city": "Jaipur",
+    "sector": "Supply Chain",
+    "pay": "₹14,500 – ₹18,000 / month",
+    "required_skills": [
+      "Barcode Scanning & Stock Count",
+      "Order Packing Accuracy",
+      "Dispatch Register Tracking"
+    ]
+  },
+  {
+    "id": "opp-07",
+    "title": "Digital Catalog & WhatsApp Commerce Assistant",
+    "organisation": "BazaarConnect MSME Studio",
+    "city": "Surat",
+    "sector": "Digital Commerce",
+    "pay": "₹15,000 – ₹19,500 / month",
+    "required_skills": [
+      "Product Photo & Listing Basics",
+      "WhatsApp Business Catalog Setup",
+      "Customer Order Follow-up",
+      "Social Media Post Writing"
+    ]
+  },
+  {
+    "id": "opp-08",
+    "title": "Home Appliance Repair Apprentice",
+    "organisation": "SevaFix Home Services",
+    "city": "Chennai",
+    "sector": "Field Services",
+    "pay": "₹16,000 – ₹22,000 / month",
+    "required_skills": [
+      "Electrical Safety & Earthing Check",
+      "Multimeter Fault Testing",
+      "Customer Estimate Explanation"
+    ]
+  },
+  {
+    "id": "opp-09",
+    "title": "Clinic Front-Desk & Patient Coordinator",
+    "organisation": "ArogyaSetu Community Clinic",
+    "city": "Lucknow",
+    "sector": "Healthcare Support",
+    "pay": "₹13,500 – ₹17,000 / month",
+    "required_skills": [
+      "Patient Appointment Scheduling",
+      "Empathetic Communication",
+      "Digital Record Entry",
+      "UPI & Cash Receipt Handling"
+    ]
+  },
+  {
+    "id": "opp-10",
+    "title": "Computer Data Entry & MIS Operator",
+    "organisation": "Pragati Microfinance Operations",
+    "city": "Nagpur",
+    "sector": "Office Operations",
+    "pay": "₹14,000 – ₹18,000 / month",
+    "required_skills": [
+      "Spreadsheet Formulas & Formatting",
+      "Accurate Document Verification",
+      "Email & PDF Reporting"
+    ]
+  },
+  {
+    "id": "opp-11",
+    "title": "Hospitality & Cafe Counter Crew",
+    "organisation": "ChaiPoint Express Kitchens",
+    "city": "Bengaluru",
+    "sector": "Hospitality",
+    "pay": "₹14,000 – ₹17,500 / month",
+    "required_skills": [
+      "Food Hygiene & Counter Setup",
+      "UPI & POS Billing",
+      "Friendly Customer Service"
+    ]
+  },
+  {
+    "id": "opp-12",
+    "title": "Field Sales & Merchant Onboarding Executive",
+    "organisation": "PayMitra Digital Payments",
+    "city": "Ahmedabad",
+    "sector": "Fintech Field Sales",
+    "pay": "₹16,500 – ₹23,000 / month",
+    "required_skills": [
+      "Merchant Pitch & Product Demo",
+      "UPI QR & KYC Verification",
+      "Daily Visit Reporting"
+    ]
+  }
+]
